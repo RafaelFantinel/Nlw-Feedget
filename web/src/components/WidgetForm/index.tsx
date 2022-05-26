@@ -53,7 +53,7 @@ export function WidgetForm() {
         ) : (
           <FeedbackContentStep
           feedbackType={feedbackType}
-          onFeedbackRestartRequest={handleRestartFeedback}
+          onFeedbackRestartRequested={handleRestartFeedback}
           onFeedbackSent={() => setFeedbackSent(true)} 
           />
           )
