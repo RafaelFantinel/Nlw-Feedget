@@ -78,4 +78,4 @@ $ npm run dev   /   yarn dev     # Para rodar o projeto Node (Backend)
 
 
 ## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/RafaelFantinel/Nlw-Feedget/new/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/RafaelFantinel/Nlw-Feedget/blob/main/LICENSE) para mais detalhes.
