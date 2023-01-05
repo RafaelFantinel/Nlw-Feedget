@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="./logo.png" width="300" alt="Logo FeedGet">
+    <img src="./logo-full.png" width="300" alt="Logo FeedGet">
 </h1>
 <!-- <h4 align="center">Projeto web construído durante o Next Level Week #08-Impulse com a Rocketseat/DiegoFernandes | Rodrigo Gonçalves.</h4> -->
 <p align="center">
